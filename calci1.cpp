@@ -1,2 +1,2 @@
 this is my calci code useful in computers and calculators
-calculator
+contains operations like addition,subtraction,multiplication,division
